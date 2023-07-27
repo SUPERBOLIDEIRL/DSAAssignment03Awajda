@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\awajd\source\repos\DSAAssignment03Awajda\DSAAssignment03Awajda\main.c(9,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSAAssignment03Awajda.vcxproj -> C:\Users\awajd\source\repos\DSAAssignment03Awajda\x64\Debug\DSAAssignment03Awajda.exe
